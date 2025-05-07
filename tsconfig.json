@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "../ale/App.tsx", "../ale/login.tsx", "../ale/e4/_layout.tsx", "../ale/e4/_layout.tsx", "../ale/saved.tsx"  ]
 }

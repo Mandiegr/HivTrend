@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "LiyuGram",
-    "slug": "LiyuGram",
+    "name": "Hiv-Trend",
+    "slug": "Hiv-Trend",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "liyugram",
+    "scheme": "hiv-trend",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
@@ -17,6 +17,8 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.mendiegr.hivtrend",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
